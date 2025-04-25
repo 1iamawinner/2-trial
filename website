@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Your Name | Portfolio</title>
+  <title>R.Shriya | Portfolio</title>
   <link href="https://fonts.googleapis.com/css2?family=The+Seasons&display=swap" rel="stylesheet">
   <style>
     :root {
@@ -30,6 +30,11 @@
       font-family: 'The Seasons', serif;
       font-size: 18px;  /* set heading font size to 18px */
       margin: 0;
+    }
+
+    header p {
+      font-size: 16px;
+      margin-top: 1rem;
     }
 
     nav {
@@ -71,8 +76,8 @@
 </head>
 <body>
   <header>
-    <h1>Your Name</h1>
-    <p>Electronics Enthusiast | Innovator | Researcher</p>
+    <h1>R.Shriya</h1>
+    <p>Aspiring Electronics Engineer | Passionate About Learning & Growing | Exploring Arduino, Sensors & Embedded Systems</p>
   </header>
 
   <nav>
@@ -125,7 +130,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 Your Name. All rights reserved.</p>
+    <p>&copy; 2025 R.Shriya. All rights reserved.</p>
   </footer>
 </body>
 </html>
