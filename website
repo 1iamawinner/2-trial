@@ -7,8 +7,8 @@
   <link href="https://fonts.googleapis.com/css2?family=The+Seasons&display=swap" rel="stylesheet">
   <style>
     :root {
-      --beige: #f5f5dc;  /* beige color */
-      --navy-blue: #000080;  /* navy blue color */
+      --beige: #f5f5dc;
+      --navy-blue: #000080;
     }
 
     body {
@@ -16,7 +16,7 @@
       font-family: 'Times New Roman', serif;
       background-color: var(--beige);
       color: var(--navy-blue);
-      font-size: 14px;  /* set default font size to 14px */
+      font-size: 14px;
     }
 
     header {
@@ -28,7 +28,7 @@
 
     header h1 {
       font-family: 'The Seasons', serif;
-      font-size: 18px;  /* set heading font size to 18px */
+      font-size: 18px;
       margin: 0;
     }
 
@@ -57,7 +57,7 @@
 
     h2 {
       font-family: 'The Seasons', serif;
-      font-size: 18px;  /* set heading font size to 18px */
+      font-size: 18px;
       margin-bottom: 1rem;
       color: var(--navy-blue);
     }
